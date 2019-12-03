@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Thu Oct 17 23:22:29 2019
-
-@author: ID:201447535
-"""
 
 import operator
 import pickle
